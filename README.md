@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FullDevStack
-- 👀 I’m interested in Music & Movie Production and of course Coding
+- 👀 I’m interested in Music Production and of course Coding
 - Founder of BizBos DesignStudio --> bb-designstudio.at
 - 🌱 I’m currently learning Javascript, WEB DEV
 - 📫 How to reach me Whatsapp.:+436603534425 or Facebook https://www.facebook.com/edissejla.duhan

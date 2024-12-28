@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edihan-1990
+- 👋 Hi, I’m @FullDevStack
 - 👀 I’m interested in Music & Movie Production and of course Coding
 - Founder of BizBos DesignStudio --> bb-designstudio.at
 - 🌱 I’m currently learning Javascript, WEB DEV
